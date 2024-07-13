@@ -43,16 +43,16 @@ python manage.py runserver
 ```
 
 ## API Endpoints
-URL: /api/message/
-Method: GET
+URL: `/api/message/`
+Method: `GET`
 Response:
 ```
 {
   "message": "Hello from Django!"
 }
 ```
-URL: /api/data/
-Method: GET
+URL: `/api/data/`
+Method: `GET`
 Response:
 ```
 {
