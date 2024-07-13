@@ -43,7 +43,7 @@ python manage.py runserver
 ```
 
 ## API Endpoints
-URL: `/api/message/` /n
+URL: `/api/message/` \n
 Method: `GET`
 Response:
 ```
