@@ -61,6 +61,3 @@ Response:
   "city": "St Louis"
 }
 ```
-
-
-```
